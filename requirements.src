@@ -1,0 +1,17 @@
+sphinx
+sphinx-autobuild
+sphinxcontrib-spelling
+sphinx-tabs
+furo
+sphinx_design
+sphinx-copybutton
+sphinxcontrib-youtube
+sphinx-toolbox
+mistune
+pystache
+pyyaml
+myst_parser
+pyenchant==3.2.2
+sphinx-rtd-theme
+Pillow
+docutils
